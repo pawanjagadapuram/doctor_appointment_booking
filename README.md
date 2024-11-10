@@ -154,4 +154,10 @@ Create a `.env` file in the root of the `backend`, `frontend`, and `admin` folde
 - **Email Notifications**: Automated email reminders for appointments.
 - **Chat Integration**: Real-time chat between patients and doctors.
 
+## Images Credit:
+
+https://www.pexels.com/
+https://unsplash.com/
+https://www.freepik.com/
+
 
